@@ -1,0 +1,7 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://quangninh7.vnpthis.vn:443/web_his/xuatxml_bang3?tungay=2016-05-13&amp;denngay=2016-05-13&amp;dvtt=22041">here</a>.</p>
+</body></html>
